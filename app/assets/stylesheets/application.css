@@ -13,3 +13,29 @@
  *= require_tree .
  *= require_self
  */
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.page{
+	width: 100%;
+	padding: 30px;
+}
+.lin{
+	color: black;
+}
+.flas{
+	color: green;
+}
+/*top*/
+.content{
+	width: 100%;
+	padding: 30px;
+	line-height: 4;
+	color: #000;
+}
+.bookers{
+	font-weight: bold;
+}
